@@ -1,11 +1,11 @@
-##Carol-Health
+## Carol-Health
 
 Carol Health is a complete solution that uses cutting-edge machine learning to identify oral problems from photos and gives customers thorough explanations and recommended therapies. Carol Health hopes to increase oral health awareness and prompt diagnosis by fusing state-of-the-art AI with seamless cloud connectivity.
 
-##Vision
+## Vision
 To empower communities with accessible, reliable, and accurate oral disease diagnosis, fostering a healthier and more informed society.
 
-##Key Features
+## Key Features
 
 - Advanced Image Classification: Detects and categorizes oral diseases with high accuracy.
 
@@ -15,11 +15,11 @@ To empower communities with accessible, reliable, and accurate oral disease diag
 
 - Mobile Application: Enables users to upload images, view results, and track their history on the go.
 
-##Architecture Overview
+## Architecture Overview
 
 Carol Health integrates various technologies to ensure a seamless user experience:
 
-#Backend
+# Backend
 
 - Framework: Flask API for handling prediction requests and user history.
 
@@ -29,10 +29,10 @@ Carol Health integrates various technologies to ensure a seamless user experienc
 
 - Storage: Google Cloud Storage for handling user-uploaded images.
 
-#Frontend
+# Frontend
 
 - Mobile Platform: Android application for user interaction.
 
 - Firebase Authentication: Secure login for personalized experiences.
 
-#Screenshots
+# Screenshots
