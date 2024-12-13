@@ -26,9 +26,6 @@ To empower communities with accessible, reliable, and accurate oral disease diag
 
 - Mobile Application: Enables users to upload images, view results, and track their history on the go.
 
-## Preview
-![kuda-6](https://github.com/user-attachments/assets/f3394eb7-dfb7-4a3b-843e-fb4d10494fdc)
-
 ## Architecture Overview
 
 Carol Health integrates various technologies to ensure a seamless user experience:
@@ -49,4 +46,6 @@ Carol Health integrates various technologies to ensure a seamless user experienc
 
 - Firebase Authentication: Secure login for personalized experiences.
 
-## Screenshots
+## Preview
+![kuda-6](https://github.com/user-attachments/assets/f3394eb7-dfb7-4a3b-843e-fb4d10494fdc)
+
