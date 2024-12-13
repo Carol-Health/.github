@@ -2,6 +2,17 @@
 
 Carol Health is a complete solution that uses cutting-edge machine learning to identify oral problems from photos and gives customers thorough explanations and recommended therapies. Carol Health hopes to increase oral health awareness and prompt diagnosis by fusing state-of-the-art AI with seamless cloud connectivity.
 
+## Team Members
+Team ID : C242-PS480
+| Name | Student ID | Path |
+| :-----: | :---: | :---: |
+| Eka Putra Meravigliosi | M312B4KY1240 | Machine Learning |
+| Satrio Umar Wibisono | M312B4KY4085 | Machine Learning |
+| Yanuar Al Hisyami | M312B4KY4517 | Machine Learning |
+| Poltak Alfredo Philander Sitorus | C312B4KY3490 | Cloud Computing |
+| Raihan Havian | C312B4KY3647 | Cloud Computing |
+| Rifqi Ghaida Sakhi | A312B4KY3851 | Mobile Development |
+
 ## Vision
 To empower communities with accessible, reliable, and accurate oral disease diagnosis, fostering a healthier and more informed society.
 
