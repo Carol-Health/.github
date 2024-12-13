@@ -56,5 +56,5 @@ Carol Health integrates various technologies to ensure a seamless user experienc
 - Firebase Authentication: Secure login for personalized experiences.
 
 ## Demo
-![kuda-6](https://github.com/user-attachments/assets/f3394eb7-dfb7-4a3b-843e-fb4d10494fdc)
+[Demo](https://drive.google.com/file/d/1fCjqPJEanaXLl8QWsEIHuE5_pN1mab1s/view?usp=sharing)
 
